@@ -1,0 +1,49 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets (Crucial for API keys)
+.env
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Vector Database & Local Storage Indices
+# (Uncomment if you want FAISS local index files excluded from version control)
+# faiss_index/
+# *.faiss
+# *.pkl
+
+# Streamlit config / cache
+.streamlit/

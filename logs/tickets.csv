@@ -1,0 +1,30 @@
+ticket_id,timestamp,customer_name / order_id,complaint,category,urgency,sentiment,kb_sources,response,status,escalation_reason
+TKT-105356,2026-11-05 10:53:56,Fernandes Reegan ORD-4512,When will my package arrive? It has been 2 days since I placed the order.,Shipping,Medium,Neutral,"shipping_policy.md, refund_policy.md","Dear Fernandes Reegan,
+
+Thank you for reaching out regarding your order (Order ID: ORD-4512). 
+
+According to our shipping policy, standard delivery typically takes 3-5 business days. Since it has only been 2 days since you placed your order, your package is still within the expected delivery window. However, I recommend checking your email for any tracking updates that would indicate the status of your shipment.
+
+If you have not received a tracking link or have any additional concerns about your order, please let us know, and we can assist you further.
+
+Thank you for your patience, and please feel free to reach out if you need any more help.
+
+Best regards,  
+[Your Name]  
+Customer Support Team",Resolved,
+TKT-105451,2026-11-05 10:54:51,Fernandes Reegan ORD-4512,I bought a shirt last week but the size is too small. Can I return it and get a refund?,Refund,Medium,Neutral,"refund_policy.md, shipping_policy.md","Dear Fernandes Reegan,
+
+Thank you for reaching out regarding your recent purchase of the shirt (Order ID: ORD-4512). 
+
+You are indeed able to return the shirt for a full refund, as long as it is returned within 30 days of purchase and remains unused, in its original packaging, along with the receipt. Since the shirt does not fit, please make sure to follow these guidelines for a successful return. 
+
+Once your return is processed, please allow 5-7 business days for the refund to reflect in your original payment method.
+
+If you need further assistance or have any additional questions, feel free to reach out.
+
+Best regards,
+
+[Your Name]  
+[Your Position]  
+[Your Contact Information]  ",Resolved,
+TKT-105526,2026-11-05 10:55:26,Fernandes Reegan ORD-4512,My order was supposed to be delivered for a birthday party tomorrow and tracking hasn't updated in 4 days! This is completely unacceptable service.,Shipping,High,Frustrated,"shipping_policy.md, refund_policy.md",Thank you for reaching out and expressing your concerns regarding the delivery of your order. I understand how important it is for you to receive your items in time for the birthday party...,Escalated,High urgency and frustrated customer sentiment.

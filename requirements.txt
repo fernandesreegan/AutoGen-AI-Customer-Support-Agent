@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+autogen-agentchat
+autogen-ext[openai]
+faiss-cpu
+sentence-transformers
+python-dotenv
+pandas
+openpyxl
+requests
+langchain_community
+langchain-openai
+langchain_experimental
